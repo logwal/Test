@@ -45,7 +45,7 @@ Partial Class Form1
         Me.ClientSize = New System.Drawing.Size(561, 506)
         Me.Controls.Add(Me.CrystalReportViewer1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "HOLA MUNDO"
         Me.ResumeLayout(False)
 
     End Sub
